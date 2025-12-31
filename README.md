@@ -21,5 +21,5 @@ This project analyzes Facebook and Instagram ad campaign data to evaluate perfor
 - Interactive dashboard with campaign performance insights
 
 ## DashBoard
-
+- <a href="https://github.com/Komil-web/FUTURE_DS_02/blob/main/Screenshot%202025-12-28%20191342.png">View Dashboard</a>
   
